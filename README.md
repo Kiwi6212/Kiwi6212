@@ -8,7 +8,7 @@ Currently handling IT operations for a multi-site school network (817 workstatio
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [MyJobHunter](https://myjobhunter.fr) — Job hunting, automated
 
@@ -20,6 +20,15 @@ A full-stack job aggregation platform I built from scratch and run in production
 - Flask · SQLite · Gunicorn · Nginx · OVH VPS (Ubuntu 24.04)
 
 [![Visit MyJobHunter](https://img.shields.io/badge/Live-myjobhunter.fr-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://myjobhunter.fr)
+
+### [LearnPath](https://github.com/Kiwi6212/learnpath) — Personal IT learning platform
+
+A self-hosted learning platform covering Networks, Systems, Security, Programming, Cloud & Certifications.
+
+- **6 learning paths** with progressive levels, interactive quizzes, flashcards & simulated terminal labs
+- **4 certification prep tracks** — CCNA, CompTIA Security+, Network+, AZ-900 with timed mock exams
+- XP system, streak tracking, bilingual FR/EN, dark/light mode
+- Flask · SQLAlchemy · SQLite · TailwindCSS · Gunicorn · Let's Encrypt
 
 ---
 
