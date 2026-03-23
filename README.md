@@ -8,7 +8,7 @@ Currently handling IT operations for a multi-site school network (817 workstatio
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### [MyJobHunter](https://myjobhunter.fr) — Job hunting, automated
 
@@ -21,14 +21,17 @@ A full-stack job aggregation platform I built from scratch and run in production
 
 [![Visit MyJobHunter](https://img.shields.io/badge/Live-myjobhunter.fr-blue?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://myjobhunter.fr)
 
-### [LearnPath](https://github.com/Kiwi6212/learnpath) — Personal IT learning platform
+---
 
-A self-hosted learning platform covering Networks, Systems, Security, Programming, Cloud & Certifications.
+## 📂 Other Projects
 
-- **6 learning paths** with progressive levels, interactive quizzes, flashcards & simulated terminal labs
-- **4 certification prep tracks** — CCNA, CompTIA Security+, Network+, AZ-900 with timed mock exams
-- XP system, streak tracking, bilingual FR/EN, dark/light mode
-- Flask · SQLAlchemy · SQLite · TailwindCSS · Gunicorn · Let's Encrypt
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [LearnPath](https://github.com/Kiwi6212/learnpath) | Self-hosted IT learning platform — 6 paths, 4 cert preps (CCNA, Security+, Network+, AZ-900), quizzes, flashcards, terminal labs, XP system | Flask · SQLAlchemy · TailwindCSS |
+| [WorkBoard](https://github.com/Kiwi6212/workboard) | Personal intranet dashboard — kanban, tasks, interventions, time tracking, stats | Flask · SQLite · Chart.js |
+| [Fleet Automation](https://github.com/Kiwi6212/fleet-automation-powershell) | Software deployment & fleet auditing via PowerShell, Chocolatey and GPO | PowerShell |
+| [Local Identity Generator](https://github.com/Kiwi6212/local-identity-generator) | Offline fake identity generator — CLI + GUI, SVG avatars, JSON export | Python · Faker · Tkinter |
+| [Autodesk Kiwi](https://github.com/Kiwi6212/autodesk_kiwi) | All-in-one web dashboard to centralize multiple services | Flask |
 
 ---
 
